@@ -1,0 +1,3 @@
+local Unlocker, awful, holyp = ...
+
+awful.DevMode = true
